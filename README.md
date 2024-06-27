@@ -58,7 +58,7 @@ If you intend to integrate this recommendation system into applications similar 
 
 4. **Response Formatting**: Format the recommendation responses from the model into a suitable format (e.g., JSON) that can be easily consumed by frontend applications.
 
-###Frontend Integration
+### Frontend Integration
 
 1. **API Consumption**: Develop frontend components using frameworks like React, Angular, or Vue.js that interact with your backend API endpoint. These components should fetch recommended video IDs and display them in a user-friendly format.
 
